@@ -1,6 +1,6 @@
 {
   "name": "@ravgeetdhillon/random-number",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Ravgeet Dhillon <ravgeetdhillon@gmail.com>",
   "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "0578269fd36ebac17805ac0f5d55e46bf028b539"
 }
