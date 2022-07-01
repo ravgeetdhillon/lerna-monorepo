@@ -1,0 +1,29 @@
+{
+  "name": "@ravgeetdhillon/random-string",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ravgeet Dhillon <ravgeetdhillon@gmail.com>",
+  "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
+  "license": "ISC",
+  "main": "lib/random-string.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravgeetdhillon/lerna-monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ravgeetdhillon/lerna-monorepo/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
