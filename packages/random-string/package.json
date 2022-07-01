@@ -1,7 +1,7 @@
 {
   "name": "@ravgeetdhillon/random-string",
   "version": "0.0.0",
-  "description": "> TODO: description",
+  "description": "Returns a random string of specified length.",
   "author": "Ravgeet Dhillon <ravgeetdhillon@gmail.com>",
   "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
   "license": "ISC",
